@@ -1,8 +1,8 @@
-# 🔐 File Encryption Tool
+ 🔐 File Encryption Tool
 
 A simple Python-based file encryption and decryption tool designed as a beginner cybersecurity project.
 
-## ✨ Features
+ ✨ Features
 
 - 🔒 Encrypt files securely
 - 🔓 Decrypt encrypted files
@@ -11,14 +11,14 @@ A simple Python-based file encryption and decryption tool designed as a beginner
 - ⚡ Easy to use
 - 🐍 Built with Python
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 - Python
 - Cryptography
 - Linux / Kali Linux
 - Git & GitHub
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```text
 file-encryption-tool/
@@ -35,7 +35,7 @@ Clone the repository:
 git clone https://github.com/YOUR_USERNAME/file-encryption-tool.git
 
 Enter the project directory:
-cd file-encryption-tool
+# cd file-encryption-tool
 
 Create a virtual environment:
 python3 -m venv venv
